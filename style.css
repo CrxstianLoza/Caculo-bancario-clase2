@@ -9,3 +9,32 @@ h1 {
     padding-top: 15px;
 }
 
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.Caja1 {
+    width: 100%;
+    height: 70px;
+    background-color: rgb(96, 179, 151);
+    margin: 10px;
+
+}
+
+.Caja2 {
+    width: 100%;
+    height: 70px;
+    background-color: rgb(96, 179, 151);
+    margin: 10px;
+}
+
+.Caja3 {
+    width: 100%;
+    height: 70px;
+    background-color: rgb(96, 179, 151);
+    margin: 10px;
+}
+
